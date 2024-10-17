@@ -1,7 +1,9 @@
 > **Linguagens e Paradigmas de Programação - Prof. Cassio Leonardo**
 > 
 > **Nome**: Gustavo Neves Piedade Louzada
+> 
 > **Matrícula**: 202107016
+> 
 > **Linguagem escolhida**: Rust 🦀
 
 ---
@@ -9,6 +11,7 @@
 #variáveis #tipos 
 
 **Tipos primitivos:**
+
  - **Escalares:** abrigam um único valor
 	 - Numéricos: Inteiros e ponto-flutuantes
 	 - Não-numéricos: booleanos e caracteres
@@ -19,6 +22,7 @@
 **Inteiros**
 
 Os inteiros podem ser dos tipos `signed` e `unsigned` e seus tamanhos são definidos em seus nomes:
+
 - `i8`: inteiro signed de 8 bits;
 - `u8`: inteiro unsigned de 8 bits;
 - `i16`: inteiro signed de 16 bits;
@@ -44,11 +48,13 @@ fn main(){
 	let str_1:&str = "Rust"; // definição explícita
 }
 ```
+
 Entretanto, existem dois tipos de strings em Rust: `&str` e `String`.
 
 `&str` é um tipo primitivo, imutável, com tamanho fixo e armazenada em algum lugar da memória, e seu valor é conhecido em tempo de compilação.
 
 Já `String` é um objeto com as seguintes propriedades:
+
 - Codificada em UTF-8;
 - Estrutura de dados armazenada no Heap da memória;
 - Tamanho modificável;

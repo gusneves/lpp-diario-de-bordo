@@ -1,7 +1,9 @@
 > **Linguagens e Paradigmas de Programação - Prof. Cassio Leonardo**
 > 
 > **Nome**: Gustavo Neves Piedade Louzada
+> 
 > **Matrícula**: 202107016
+> 
 > **Linguagem escolhida**: Rust 🦀
 
 ---

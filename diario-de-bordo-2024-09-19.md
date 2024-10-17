@@ -1,7 +1,9 @@
 > **Linguagens e Paradigmas de Programação - Prof. Cassio Leonardo**
 > 
 > **Nome**: Gustavo Neves Piedade Louzada
+> 
 > **Matrícula**: 202107016
+> 
 > **Linguagem escolhida**: Rust 🦀
 
 ---
@@ -9,12 +11,14 @@
 ### Operadores
 
 **Unários (em ordem de precedência):**
+
 - Negação: `!`;
 - Desreferência: `*`;
 - *Borrow*: `&`, `&mut`.
 
 
 **Binários (em ordem de precedência):**
+
 - *Typecast*: `as`;
 - Aritméticos: `*`, `/`, `%`, `+`, `-`;
 - Deslocamento de bits: `<<`, `>>`;
@@ -68,6 +72,8 @@ fn main() {
       }
 }
 ```
+
+
 **`match`:**
 
 Para alcançar um comportamento semelhante ao `switch` de C, utiliza-se a palavra-chave `match`.

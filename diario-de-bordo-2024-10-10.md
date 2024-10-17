@@ -1,7 +1,9 @@
 > **Linguagens e Paradigmas de Programação - Prof. Cassio Leonardo**
 > 
 > **Nome**: Gustavo Neves Piedade Louzada
+> 
 > **Matrícula**: 202107016
+> 
 > **Linguagem escolhida**: Rust 🦀
 
 ---
@@ -60,6 +62,7 @@ note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
 
 
 #### Erros recuperáveis com `Result<T, E>`
+
 
 O tipo `Result<T, E>` é um enum definido da seguinte maneira:
 
