@@ -86,7 +86,7 @@ fn main(){
 
 A inicialização de arrays deve seguir o seguinte padrão:
 
-![[Pasted image 20240923221850.png]]
+![](array.png "Array")
 
 Por convenção, todo array possui um tamanho fixo.
 

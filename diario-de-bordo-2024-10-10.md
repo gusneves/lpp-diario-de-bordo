@@ -8,6 +8,8 @@
 
 ---
 
+#excecoes
+
 ### Tratamento de exceções
 
 Rust não possui exceções, mas divide seus erros em dois grupos: erros *recuperáveis* e erros *irrecuperáveis*.

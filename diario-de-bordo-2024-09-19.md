@@ -8,6 +8,8 @@
 
 ---
 
+#operadores
+
 ### Operadores
 
 **Unários (em ordem de precedência):**
@@ -164,6 +166,7 @@ fn main() {
 	}
 }
 ```
+
 - Saída:
 
 ```none
